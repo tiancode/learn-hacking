@@ -43,7 +43,7 @@ $ ifconfig
 
 **抓包：**
 
-airport可以使用网卡的监听模式抓取周围的无线网络数据包。其中，对我们最重要的数据包是：包含密码的包－也叫握手包。当有新用户或断开用户自动连接wifi时，会发送握手包。有一种攻击方式是reinjecting packet，它可以强制无线路由器重启，这样当用户自动连接时可以获得握手包。如果无线路由器用户多的话，可以静等。
+airport可以使用网卡的监听模式抓取周围的无线网络数据包。其中，对我们最重要的数据包是：包含密码的包－也叫握手包。当有新用户或断开用户自动连接wifi时，会发送握手包。有一种攻击方式是reinjecting packet，它可以强制无线路由器重启，这样当用户自动连接时可以获得握手包。如果无线路由器用户多的话，可以静等（[Kali Linux使用Aircrack破解wifi密码(wpa/wpa2)](http://topspeedsnail.com/kali-linux-crack-wifi-wpa/)）。
 
 {% highlight shell %}
 $ sudo /System/Library/PrivateFrameworks/Apple80211.framework/Versions/Current/Resources/airport en0 sniff 6
