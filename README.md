@@ -1,5 +1,4 @@
-# start-learn-kali-linux
-### 开始学习Kali Linux
+# 开始学习Kali Linux
 
 * [在Wifi网络中嗅探明文密码(HTTP POST请求、POP等)](http://topspeedsnail.com/wireshark-hack-http-post-password/)
 * [使用Kali Linux执行中间人攻击(演示)](http://topspeedsnail.com/kali-linux-preform-man-in-middle-attack/)
@@ -10,4 +9,3 @@
 * [Kali Linux使用acccheck破解Windows用户密码(SMB协议)](http://topspeedsnail.com/kali-linux-acccheck-crack-windows-passwd-smb/)
 * [Kali Linux ettercap的使用](http://topspeedsnail.com/kali-linux-ettercap-arp-spoof-attack/)
 * [Kali Linux：使用John the Ripper破解密码](http://topspeedsnail.com/John-the-Ripper-learn/)
-* 
