@@ -12,3 +12,8 @@
 * [Kali Linux安装SSH Server](http://topspeedsnail.com/kali-linux-enable-ssh-server/)
 * [Kali Linux - findmyhash命令-破解哈希值](http://topspeedsnail.com/kali-linux-findmyhash/)
 * [移除Android应用广告－Android逆向工程](http://topspeedsnail.com/android-reversing-remove-ad/)
+* [Kali Linux怎么设置键盘快捷键](http://blog.topspeedsnail.com/archives/4452)
+* [更改Kali Linux MAC地址](http://blog.topspeedsnail.com/archives/4387)
+* [Kali Linux编译Lantern](http://blog.topspeedsnail.com/archives/4236)
+* [Kali Linux安装VPN客户端](http://blog.topspeedsnail.com/archives/4242)
+* [Kali Linux：从light升级到完整版](http://blog.topspeedsnail.com/archives/4220)
