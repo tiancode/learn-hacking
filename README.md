@@ -5,6 +5,7 @@
 * [演示使用Metasploit入侵Windows](http://topspeedsnail.com/kali-linux-n-hack-windows-xp/)
 * [演示使用Metasploit入侵Android](http://topspeedsnail.com/kali-linux-metasploit-hack-android/)
 * [使用Kali Linux重置Windows密码-chntpw](http://topspeedsnail.com/hack-windows-passwd/)
+* [Kali Linux使用Aircrack破解wifi密码(wpa/wpa2)](http://topspeedsnail.com/kali-linux-crack-wifi-wpa/)
 * [使用Hydra通过ssh破解密码](http://topspeedsnail.com/kydra-crack-ssh-and-avoid-attack/)
 * [Kali Linux使用acccheck破解Windows用户密码(SMB协议)](http://topspeedsnail.com/kali-linux-acccheck-crack-windows-passwd-smb/)
 * [Kali Linux ettercap的使用](http://topspeedsnail.com/kali-linux-ettercap-arp-spoof-attack/)
@@ -23,4 +24,6 @@
 
 上面提供的信息并不是鼓励邪恶攻击，而是协助开发者测试自己的系统和网络，请勿用在它处。
 
-孙子说过：“知彼知己，百战不殆”；又有成语：“道高一尺,魔高一丈”。
+孙子说过：“知彼知己，百战不殆”；
+
+又有成语：“道高一尺,魔高一丈”。
