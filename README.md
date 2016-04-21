@@ -18,3 +18,7 @@
 * [Kali Linux编译Lantern](http://blog.topspeedsnail.com/archives/4236)
 * [Kali Linux安装VPN客户端](http://blog.topspeedsnail.com/archives/4242)
 * [Kali Linux：从light升级到完整版](http://blog.topspeedsnail.com/archives/4220)
+
+***
+
+上面提供的信息并不是鼓励邪恶攻击，而是协助开发者测试自己的系统和网络；孙子说过：“知彼知己，百战不殆”。
