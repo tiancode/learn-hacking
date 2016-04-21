@@ -9,3 +9,4 @@
 * [Kali Linux使用acccheck破解Windows用户密码(SMB协议)](http://topspeedsnail.com/kali-linux-acccheck-crack-windows-passwd-smb/)
 * [Kali Linux ettercap的使用](http://topspeedsnail.com/kali-linux-ettercap-arp-spoof-attack/)
 * [Kali Linux：使用John the Ripper破解密码](http://topspeedsnail.com/John-the-Ripper-learn/)
+* [Kali Linux安装SSH Server](http://topspeedsnail.com/kali-linux-enable-ssh-server/)
