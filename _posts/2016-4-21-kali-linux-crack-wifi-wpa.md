@@ -139,7 +139,7 @@ aireplay-ng的生效前提是，wifi网络中至少有一个连接的设备。�
 
 [Hashcat](http://hashcat.net)可以借助GPU的运算力破解各种不同算法的hash值。
 
-下载时要注意选择正确的显卡类型（AMD、NVidia）。
+下载时要注意选择正确的显卡类型（AMD、NVidia）。Kali Linux自带这个工具。
 
 在破解cap文件之前，要把它转换为hccap文件：
 
@@ -150,7 +150,7 @@ aireplay-ng的生效前提是，wifi网络中至少有一个连接的设备。�
 使用GPU破解hash：
 
 {% highlight shell %}
-# oclHashcat.bin -m 2500 out.hccap 字典文件
+# hashcat -m 2500 out.hccap 字典文件
 {% endhighlight %}
 
 ***
