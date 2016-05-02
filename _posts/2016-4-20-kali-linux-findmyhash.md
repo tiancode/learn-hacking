@@ -30,3 +30,5 @@ findmyhash另辟蹊径，它借助在线破解哈希的网站，可以在极短�
 {% endhighlight %}
 
 ![findmyhash]({{ site.baseurl }}/images/2016/4/Screenshot from 2016-04-21 09-13-40.png)
+
+如果findmyhash破解不了，可以使用hashcat暴力破解。
