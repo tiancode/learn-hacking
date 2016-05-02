@@ -19,6 +19,7 @@
 * [Kali Linux编译Lantern](http://blog.topspeedsnail.com/archives/4236)
 * [Kali Linux安装VPN客户端](http://blog.topspeedsnail.com/archives/4242)
 * [kali linux: 安装Tor浏览器](http://blog.topspeedsnail.com/archives/4577)
+* [Kali Linux创建WiFi热点（共享有线网络）](http://blog.topspeedsnail.com/archives/4617)
 * [Kali Linux：从light升级到完整版](http://blog.topspeedsnail.com/archives/4220)
 * [Katoolin - 在Ubuntu上安装Kali Linux工具集](http://blog.topspeedsnail.com/archives/4498)
 * [Steghide - 隐藏秘密信息](http://topspeedsnail.com/steghide-hide-secret-message/)
