@@ -6,6 +6,7 @@
 * [演示使用Metasploit入侵Android](http://topspeedsnail.com/kali-linux-metasploit-hack-android/)
 * [使用Kali Linux重置Windows密码-chntpw](http://topspeedsnail.com/hack-windows-passwd/)
 * [Kali Linux使用Aircrack破解wifi密码(wpa/wpa2)](http://topspeedsnail.com/kali-linux-crack-wifi-wpa/)
+* [使用sqlmap执行SQL注入攻击](http://topspeedsnail.com/sqlmap-injection-learn/)
 * [使用Hydra通过ssh破解密码](http://topspeedsnail.com/kydra-crack-ssh-and-avoid-attack/)
 * [Kali Linux使用acccheck破解Windows用户密码(SMB协议)](http://topspeedsnail.com/kali-linux-acccheck-crack-windows-passwd-smb/)
 * [Kali Linux ettercap的使用](http://topspeedsnail.com/kali-linux-ettercap-arp-spoof-attack/)
