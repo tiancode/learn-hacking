@@ -60,7 +60,7 @@ socks5 127.0.0.1 9050
 使用：
 
 {% highlight shell %}
-# proxychains ping google.com
+# proxychains curl -O somewebsite
 
 # proxychains theharvester -d 163.com -b google
 {% endhighlight %}

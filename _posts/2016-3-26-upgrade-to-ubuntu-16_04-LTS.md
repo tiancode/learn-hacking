@@ -3,12 +3,6 @@ layout: post
 title: Ubuntu 14.04/15.10升级到Ubuntu 16.04 LTS
 ---
 
-Ubuntu 16.04 LTS版本的正式发布日期是2016年4月21日。你可以看看Ubuntu 16.04的发布计划：<https://wiki.ubuntu.com/XenialXerus/ReleaseSchedule>
-
-Ubuntu 16.04的最后一个测试版已经发布。
-
-> 测试版本并不稳定，在升级之前最好备份重要的文件。如果你不想安装测试版，静等4月21日。
-
 下面记录了从Ubuntu 14.04/15.10升级到Ubuntu 16.04的步骤。
 
 在升级系统之前，我们先更新一下系统。打开终端执行如下命令：
