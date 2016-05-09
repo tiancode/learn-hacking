@@ -37,3 +37,45 @@ Samc创建了一个php脚本用来发送他的密码；更改html中sam的邮件
 点击Send password to Sam：
 
 ![Lv4](https://github.com/tiancode/start-learn-kali-linux/blob/master/hackthissite/image/Screen%20Shot%202016-05-09%20at%2017.28.10.png)
+
+***
+
+### Lv6：<https://www.hackthissite.org/missions/basic/6/>
+
+Sam使用算法加密了他的密码，我们需要破解这个算法，幸运的是这个算法是可以访问的。
+
+输入abcdef1234，加密为acegik79;=
+
+abcdef012345 ->   acegik68:<>@
+    
+abcdef     ->     acegik
+    
+ABCEDF     ->     ACEGIK
+    
+012345678  ->     02468:<>@B
+    
+a0123456   ->     a13579;=
+    
+多输入几个查看规律；C语言解密代码：
+
+```
+#include <stdio.h>
+#include <string.h>
+
+void decrypt(char *str, char* out)
+{
+	for(int i = 0; i < strlen(str); i++)
+	{
+		out[i] = str[i] - i;
+	}
+}
+
+int main(int argc, char *argv[])
+{
+	char out[32] = {0};
+	decrypt("57d9;hg=", out);
+	printf("%s\n", out);
+}
+```
+
+Sam的加密密码为57d9;hg=，原密码是：56b67ca6
