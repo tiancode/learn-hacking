@@ -29,6 +29,7 @@
 * [Steghide - 隐藏秘密信息](http://topspeedsnail.com/steghide-hide-secret-message/)
 * [HTTrack - 克隆任意网站](http://topspeedsnail.com/httrack-clone-website/)
 * [arp-scan 发现本地网络中的隐藏设备](http://topspeedsnail.com/arp-scan-find-network-devices/)
+* [使用foremost恢复删除的文件](http://topspeedsnail.com/foremost-recover-del-file/)
 
 ***
 
