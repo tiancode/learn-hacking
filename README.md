@@ -1,5 +1,3 @@
-## 开始学习Kali Linux
-
 * [在Wifi网络中嗅探明文密码(HTTP POST请求、POP等)](http://topspeedsnail.com/wireshark-hack-http-post-password/)
 * [使用Kali Linux执行中间人攻击(演示)](http://topspeedsnail.com/kali-linux-preform-man-in-middle-attack/)
 * [演示使用Metasploit入侵Windows](http://topspeedsnail.com/kali-linux-n-hack-windows-xp/)
