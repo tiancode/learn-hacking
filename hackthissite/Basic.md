@@ -79,3 +79,10 @@ int main(int argc, char *argv[])
 ```
 
 Sam的加密密码为57d9;hg=，原密码是：56b67ca6
+
+### Lv6：<https://www.hackthissite.org/missions/basic/7/>
+
+看完描述，最先想到的攻击方式就是shell注入攻击。
+
+输入`2016;ls`；找到当前目录的密码文件`k1kh31b1n55h.php`，然后访问 <https://www.hackthissite.org/missions/basic/7/k1kh31b1n55h.php> 查看密码：63474cd3
+
