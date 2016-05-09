@@ -34,3 +34,22 @@
 上面提供的信息并不是鼓励邪恶攻击，而是协助开发者测试自己的系统和网络，请勿用在它处。
 
 孙子说过：“知彼知己，百战不殆”；
+
+***
+
+## HackThisSite挑战问题解答
+
+如果你不知道HackThisSite，看[wiki](https://en.wikipedia.org/wiki/HackThisSite)。
+
+### Challenges
+
+* Basic missions
+* Realistic missions
+* Application missions
+* Programming missions
+* Phonephreaking missions
+* Javascript missions
+* Forensic missions
+* Extbasic missions
+* Stego missions
+* Irc missions
