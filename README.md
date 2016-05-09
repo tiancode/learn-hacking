@@ -39,7 +39,7 @@
 
 ## HackThisSite挑战问题解答
 
-如果你不知道HackThisSite，看[wiki](https://en.wikipedia.org/wiki/HackThisSite)。
+如果你不知道HackThisSite是什么，看[wiki](https://en.wikipedia.org/wiki/HackThisSite)。
 
 ### Challenges
 
