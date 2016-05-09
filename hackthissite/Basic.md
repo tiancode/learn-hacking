@@ -42,7 +42,7 @@ Samc创建了一个php脚本用来发送他的密码；更改html中sam的邮件
 
 ### Lv6：<https://www.hackthissite.org/missions/basic/6/>
 
-Sam使用算法加密了他的密码，我们需要破解这个算法，幸运的是这个算法是可以访问的。
+Sam使用算法加密了他的密码，我们需要破解这个算法，幸运的是这个算法是可以公开的。
 
 输入abcdef1234，加密为acegik79;=
 
