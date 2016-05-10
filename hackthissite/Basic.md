@@ -1,7 +1,3 @@
-全是基本问题，比较简单。
-
-***
-
 ### Lv1：<https://www.hackthissite.org/missions/basic/1/>
 
 sam把密码写到了html中；在Html中找密码；密码是`ab7b6ce8`:
@@ -80,11 +76,15 @@ int main(int argc, char *argv[])
 
 Sam的加密密码为57d9;hg=，原密码是：56b67ca6
 
+***
+
 ### Lv7：<https://www.hackthissite.org/missions/basic/7/>
 
 看完描述，最先想到的攻击方式就是shell注入攻击。
 
 输入`2016;ls`；找到当前目录的密码文件`k1kh31b1n55h.php`，然后访问 <https://www.hackthissite.org/missions/basic/7/k1kh31b1n55h.php> 查看密码：63474cd3
+
+***
 
 ### Lv8：<https://www.hackthissite.org/missions/basic/8/>
 
@@ -93,6 +93,8 @@ Sam的女儿用PHP写了一些php代码保存文件。
 提示：[Server-Side Includes (SSI) Injection](https://www.owasp.org/index.php/Server-Side_Includes_(SSI)_Injection)
 
 输入：`<!--#exec cmd="ls ../" --> ` ， 访问[au12ha39vc.php](https://www.hackthissite.org/missions/basic/8/au12ha39vc.php) 获得密码：e1361dfd
+
+***
 
 ### Lv9：<https://www.hackthissite.org/missions/basic/9/>
 
