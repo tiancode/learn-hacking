@@ -18,5 +18,37 @@
 https://www.hackthissite.org/missions/realistic/1/v.php?PHPSESSID=abcaeadfc31a5c43b2534bf995c0553f&id=3&vote=777
 ```
 
-### Chicago American Nazi Party
+***
+
+### [Chicago American Nazi Party](https://www.hackthissite.org/playlevel/2/)
+
+**问题描述：**
+
+有一个种族歧视的[网站](https://www.hackthissite.org/missions/realistic/2/)，非常恶心。你的任务是黑进管理员用户并更改主页信息。
+
+**解答：**
+
+其实网页在底部隐藏了一个链接（链接颜色和背景相同），通过查看网页源代码可以获知：
+
+![hei](https://github.com/tiancode/start-learn-kali-linux/blob/master/hackthissite/image/Screen%20Shot%202016-05-10%20at%2020.14.50.png)
+
+网址是：
+
+```
+https://www.hackthissite.org/missions/realistic/2/update.php
+```
+
+需要你输入密码：
+
+![hei](https://github.com/tiancode/start-learn-kali-linux/blob/master/hackthissite/image/Screen%20Shot%202016-05-10%20at%2020.17.59.png)
+
+这个密码怎么破解呢？
+
+使用SQL注入，如果你不知道神马是SQL注入：看：<http://topspeedsnail.com/sqlmap-injection-learn/>
+
+在用户名和密码框中输入：' or 1=1--  
+
+***
+
+
 
