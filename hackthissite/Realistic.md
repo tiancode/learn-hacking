@@ -1,4 +1,4 @@
-### Uncle Arnold's Local Band Review
+### [Uncle Arnold's Local Band Review](https://www.hackthissite.org/playlevel/1/)
 
 **问题描述：**
 
