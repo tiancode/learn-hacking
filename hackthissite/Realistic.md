@@ -10,7 +10,7 @@
 
 查看网页源代码，你可以看到vote表单使用v.php。这意味这你可以直接更改rating。
 
-![band](https://github.com/tiancode/start-learn-kali-linux/blob/master/hackthissite/image/Screen%20Shot%202016-05-10%20at%2019.49.18.png)
+![band](https://github.com/tiancode/learn-hacking/blob/master/hackthissite/image/Screen%20Shot%202016-05-10%20at%2019.49.18.png)
 
 直接访问下面网址更改投票数：
 
@@ -30,7 +30,7 @@ https://www.hackthissite.org/missions/realistic/1/v.php?PHPSESSID=abcaeadfc31a5c
 
 其实网页在底部隐藏了一个链接（链接颜色和背景相同），通过查看网页源代码可以获知：
 
-![hei](https://github.com/tiancode/start-learn-kali-linux/blob/master/hackthissite/image/Screen%20Shot%202016-05-10%20at%2020.14.50.png)
+![hei](https://github.com/tiancode/learn-hacking/blob/master/hackthissite/image/Screen%20Shot%202016-05-10%20at%2020.14.50.png)
 
 网址是：
 
@@ -40,7 +40,7 @@ https://www.hackthissite.org/missions/realistic/2/update.php
 
 需要你输入密码：
 
-![hei](https://github.com/tiancode/start-learn-kali-linux/blob/master/hackthissite/image/Screen%20Shot%202016-05-10%20at%2020.17.59.png)
+![hei](https://github.com/tiancode/learn-hacking/blob/master/hackthissite/image/Screen%20Shot%202016-05-10%20at%2020.17.59.png)
 
 这个密码怎么破解呢？
 
