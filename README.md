@@ -15,6 +15,7 @@
 * [移除Android应用广告－Android逆向工程](http://topspeedsnail.com/android-reversing-remove-ad/)
 * [使用WPScan破解wordpress站点密码](http://blog.topspeedsnail.com/archives/4228)
 * [使用fcrackzip破解zip保护密码](http://topspeedsnail.com/fcrackzip-crack-zip-password/)
+* [Kali Linux使用crunch生成密码字典](http://topspeedsnail.com/kali-linux-crunch-generation-wordlist/)
 * [Kali Linux怎么设置键盘快捷键](http://blog.topspeedsnail.com/archives/4452)
 * [更改Kali Linux MAC地址](http://blog.topspeedsnail.com/archives/4387)
 * [Kali Linux编译Lantern](http://blog.topspeedsnail.com/archives/4236)
