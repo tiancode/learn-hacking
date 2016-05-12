@@ -2,6 +2,7 @@
 
 * [arp-scan 发现本地网络中的隐藏设备](http://topspeedsnail.com/arp-scan-find-network-devices/)
 * [Kali Linux：使用nmap扫描主机](http://topspeedsnail.com/kali-linux-npm-scan/)
+* [使用Metasploit收集邮箱信息](http://topspeedsnail.com/metasploit-search-email-collector/)
 
 ### 密码破解
 
