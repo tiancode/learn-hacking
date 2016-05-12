@@ -11,6 +11,7 @@
 * [Kali Linux ettercap的使用](http://topspeedsnail.com/kali-linux-ettercap-arp-spoof-attack/)
 * [Kali Linux：使用John the Ripper破解密码](http://topspeedsnail.com/John-the-Ripper-learn/)
 * [Kali Linux安装SSH Server](http://topspeedsnail.com/kali-linux-enable-ssh-server/)
+* [判断hash值的加密类型](http://topspeedsnail.com/identifier-hash-type/)
 * [Kali Linux - findmyhash命令-破解哈希值](http://topspeedsnail.com/kali-linux-findmyhash/)
 * [移除Android应用广告－Android逆向工程](http://topspeedsnail.com/android-reversing-remove-ad/)
 * [使用WPScan破解wordpress站点密码](http://blog.topspeedsnail.com/archives/4228)
