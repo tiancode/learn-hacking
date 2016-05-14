@@ -54,6 +54,8 @@
 
 ### 社会工程学
 
+* [群发邮件 (setoolkit)](http://topspeedsnail.com/send-mess-email-setoolkit/)
+
 ### 其他
 
 * [Kali Linux安装SSH Server](http://topspeedsnail.com/kali-linux-enable-ssh-server/)
