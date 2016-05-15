@@ -42,6 +42,7 @@
 
 * [使用hping3/nping施行DoS攻击](http://topspeedsnail.com/user-nping-hping3-dos/)
 * [HTTrack - 克隆任意网站](http://topspeedsnail.com/httrack-clone-website/)
+* [使用Metasploit破解Tomcat密码](http://topspeedsnail.com/crack-tomcat-password-use-metasploit/)
 
 ### 匿名
 
