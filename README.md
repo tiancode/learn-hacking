@@ -40,6 +40,7 @@
 
 ### Web应用分析
 
+* [使用w3af扫描网站漏洞](http://topspeedsnail.com/use-w3af-scan-website-vulnerability/)
 * [使用Nikto扫描网站漏洞](http://topspeedsnail.com/use-nikto-scan-vulnerabilities/)
 * [使用hping3/nping施行DoS攻击](http://topspeedsnail.com/user-nping-hping3-dos/)
 * [HTTrack - 克隆任意网站](http://topspeedsnail.com/httrack-clone-website/)
