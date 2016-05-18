@@ -60,6 +60,10 @@
 
 * [群发邮件 (setoolkit)](http://topspeedsnail.com/send-mess-email-setoolkit/)
 
+### 反杀
+
+* [关于杀毒软件](http://topspeedsnail.com/antivirus-software-working/)
+
 ### 其他
 
 * [Kali Linux安装SSH Server](http://topspeedsnail.com/kali-linux-enable-ssh-server/)
