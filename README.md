@@ -29,6 +29,7 @@
 
 * [在Wifi网络中嗅探明文密码(HTTP POST请求、POP等)](http://topspeedsnail.com/wireshark-hack-http-post-password/)
 * [使用Kali Linux执行中间人攻击(演示)](http://topspeedsnail.com/kali-linux-preform-man-in-middle-attack/)
+* [演示DNS欺骗攻击](http://topspeedsnail.com/DNS-spoofing-attack/)
 * [Kali Linux ettercap的使用](http://topspeedsnail.com/kali-linux-ettercap-arp-spoof-attack/)
 * [更改Kali Linux MAC地址](http://blog.topspeedsnail.com/archives/4387)
 
