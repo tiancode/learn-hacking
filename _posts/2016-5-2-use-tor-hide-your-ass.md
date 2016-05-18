@@ -33,7 +33,7 @@ title: 使用tor实现匿名扫描/SSH登录
 # tor HTTPProxy 127.0.0.1:8787
 {% endhighlight %}
 
-它可以和大多数的梯子配合使用，但是，最好使用加密的代理（socks／https）。
+它可以和大多数的梯子配合使用，但是，最好使用加密的代理（socks／https/vpn）。
 
 使用man tor查看帮助信息.
 

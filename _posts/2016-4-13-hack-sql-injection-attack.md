@@ -86,7 +86,7 @@ SELECT * FROM items
 
 这允许攻击者查询到权限外的数据。
 
-sqlmap是利用这种攻击的一个自动工具。
+sqlmap是利用这种攻击的一个自动化工具：[使用sqlmap执行SQL注入攻击](http://topspeedsnail.com/sqlmap-injection-learn/)
 
 ****
 

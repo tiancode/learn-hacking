@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ubuntu 14.04/15.10升级到Ubuntu 16.04 LTS
+title: Ubuntu 14.04升级到Ubuntu 16.04
 ---
 
 下面记录了从Ubuntu 14.04/15.10升级到Ubuntu 16.04的步骤。

