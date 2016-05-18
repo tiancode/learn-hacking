@@ -1,5 +1,6 @@
 ### 信息收集
 
+* [使用sslscan获得SSL/TLS信息](http://topspeedsnail.com/use-sslscan-get-ssl-info/)
 * [arp-scan 发现本地网络中的隐藏设备](http://topspeedsnail.com/arp-scan-find-network-devices/)
 * [Kali Linux：使用nmap扫描主机](http://topspeedsnail.com/kali-linux-npm-scan/)
 * [使用Metasploit收集邮箱信息](http://topspeedsnail.com/metasploit-search-email-collector/)
