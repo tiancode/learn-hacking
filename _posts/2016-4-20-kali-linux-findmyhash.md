@@ -25,6 +25,8 @@ findmyhash另辟蹊径，它借助在线破解哈希的网站，可以在极短�
 
 如破解上面的MD5哈希串'098f6bcd4621d373cade4e832627b4f6'：
 
+* [判断hash值的加密类型](http://topspeedsnail.com/identifier-hash-type/)
+
 {% highlight shell %}
 # findmyhash MD5 -h 098f6bcd4621d373cade4e832627b4f6
 {% endhighlight %}
