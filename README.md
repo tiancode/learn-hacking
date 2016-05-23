@@ -39,6 +39,7 @@
 * [演示使用Metasploit入侵Android](http://topspeedsnail.com/kali-linux-metasploit-hack-android/)
 * [使用sqlmap执行SQL注入攻击](http://topspeedsnail.com/sqlmap-injection-learn/)
 * [安装使用lynis扫描Linux的安全漏洞](http://topspeedsnail.com/How-to-use-lynis-on-linux/)
+* [黑技能测试：攻破VulnOS 2](http://topspeedsnail.com/hack-vulnos-for-test-your-skill/)
 
 ### Web应用分析
 
@@ -54,7 +55,7 @@
 * [Kali Linux安装VPN客户端](http://blog.topspeedsnail.com/archives/4242)
 * [kali linux: 安装Tor浏览器](http://blog.topspeedsnail.com/archives/4577)
 * [使用tor实现匿名扫描/SSH登录](http://topspeedsnail.com/use-tor-hide-your-ass/)
-* [清除Linux的最新近登录日志和Bash历史](http://topspeedsnail.com/clear-last-linux-login-log/)
+* [清除Linux的最近登录日志和Bash历史](http://topspeedsnail.com/clear-last-linux-login-log/)
 * [Steghide - 隐藏秘密信息](http://topspeedsnail.com/steghide-hide-secret-message/)
 
 ### 社会工程学
