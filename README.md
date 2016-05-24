@@ -24,6 +24,7 @@
 ### 无线攻击
 
 * [Kali Linux使用Aircrack破解wifi密码(wpa/wpa2)](http://topspeedsnail.com/kali-linux-crack-wifi-wpa/)
+* [创建伪wifi热点](http://topspeedsnail.com/fake-wifi-access-point-and-capture-all-data/)
 
 ### 嗅探 & 欺骗
 
