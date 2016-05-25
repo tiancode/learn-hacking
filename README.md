@@ -63,7 +63,7 @@
 
 * [群发邮件 (setoolkit)](http://topspeedsnail.com/send-mess-email-setoolkit/)
 
-### 反杀
+### 免杀
 
 * [关于杀毒软件](http://topspeedsnail.com/antivirus-software-working/)
 
@@ -75,6 +75,15 @@
 * [Kali Linux：从light升级到完整版](http://blog.topspeedsnail.com/archives/4220)
 * [Katoolin - 在Ubuntu上安装Kali Linux工具集](http://blog.topspeedsnail.com/archives/4498)
 * [使用foremost恢复删除的文件](http://topspeedsnail.com/foremost-recover-del-file/)
+
+***
+
+### Github
+
+* [粘贴劫持](https://github.com/dxa4481/Pastejacking)
+* [PHP-backdoors](https://github.com/bartblaze/PHP-backdoors)
+* [awesome-hacking](https://github.com/carpedm20/awesome-hacking)
+* [metasploit-framework](https://github.com/rapid7/metasploit-framework)
 
 ***
 
