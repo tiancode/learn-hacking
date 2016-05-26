@@ -16,6 +16,7 @@
 * [Kali Linux：使用John the Ripper破解密码](http://topspeedsnail.com/John-the-Ripper-learn/)
 * [使用Kali Linux重置Windows密码-chntpw](http://topspeedsnail.com/hack-windows-passwd/)
 * [Kali Linux使用acccheck破解Windows用户密码(SMB协议)](http://topspeedsnail.com/kali-linux-acccheck-crack-windows-passwd-smb/)
+* [使用pdfcrack破解PDF密码(Linux)](http://topspeedsnail.com/crack-pdf-password-use-pdfcrack/)
 
 ### 逆向工程
 
