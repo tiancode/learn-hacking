@@ -85,6 +85,7 @@
 * [PHP-backdoors](https://github.com/bartblaze/PHP-backdoors)
 * [awesome-hacking](https://github.com/carpedm20/awesome-hacking)
 * [metasploit-framework](https://github.com/rapid7/metasploit-framework)
+* [reverse-engineering-for-beginners](https://github.com/veficos/reverse-engineering-for-beginners)
 
 ***
 
