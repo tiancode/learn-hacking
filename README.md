@@ -87,6 +87,7 @@
 * [metasploit-framework](https://github.com/rapid7/metasploit-framework)
 * [reverse-engineering-for-beginners](https://github.com/veficos/reverse-engineering-for-beginners)
 * [droidReverse](https://github.com/Juude/droidReverse)
+* [RE-for-beginners](https://github.com/dennis714/RE-for-beginners)
 
 ***
 
