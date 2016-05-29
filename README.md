@@ -89,6 +89,7 @@
 * [reverse-engineering-for-beginners](https://github.com/veficos/reverse-engineering-for-beginners)
 * [droidReverse](https://github.com/Juude/droidReverse)
 * [RE-for-beginners](https://github.com/dennis714/RE-for-beginners)
+* [warberry](https://github.com/secgroundzero/warberry)
 
 ***
 
