@@ -90,6 +90,7 @@
 * [droidReverse](https://github.com/Juude/droidReverse)
 * [RE-for-beginners](https://github.com/dennis714/RE-for-beginners)
 * [warberry](https://github.com/secgroundzero/warberry)
+* [security-guide-for-developers](https://github.com/FallibleInc/security-guide-for-developers)
 
 ***
 
