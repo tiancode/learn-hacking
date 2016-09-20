@@ -1,3 +1,9 @@
+下面提供的信息并不是鼓励邪恶攻击，而是协助开发者测试自己的系统和网络，请勿用在它处。
+
+```
+May the brute force be with you.
+```
+
 ### 密码破解
 
 * [使用Hydra通过ssh破解密码](http://topspeedsnail.com/kydra-crack-ssh-and-avoid-attack/)
@@ -96,9 +102,17 @@
 
 ***
 
-上面提供的信息并不是鼓励邪恶攻击，而是协助开发者测试自己的系统和网络，请勿用在它处。
+### YouTube视频
 
-May the brute force be with you.
+* [Kali Linux Tutorials](https://www.youtube.com/user/kalinuxx)-Kali Linux教程频道
+* [Kali Linux - Complete Training Program from Scratch](https://www.youtube.com/watch?v=fB3DI48MNno&list=PLnjNR4-S-EVqfJWovxEJyb7I0IOkKkoYM)-印度哥们，有口音
+* [How to hack any Android Device (Kali Linux 2.0)](https://www.youtube.com/watch?v=hDsdpbAWrKA)
+* [How to hack wifi 2016 (Kali Linux)](https://www.youtube.com/watch?v=Fynh7oP9Lio)
+* [Webcam Hacking and Custom Persistent Backdoor Kali Linux](https://www.youtube.com/watch?v=PJevd038pHY)
+* [How to Hack Windows Webcam Kali linux](https://www.youtube.com/watch?v=UMbxaUUTBwU)
+* [Kali Linux on Raspberry Pi 3](https://www.youtube.com/watch?v=6xXnUGR_e4E)
+
+YouTube上的视频真是包罗万象
 
 ***
 
