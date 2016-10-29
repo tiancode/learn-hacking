@@ -100,6 +100,7 @@ May the brute force be with you.
 * [wooyun_public](https://github.com/hanc00l/wooyun_public)-乌云公开漏洞、知识库爬虫和搜索 
 * [Pompem](https://github.com/rfunix/Pompem)-漏洞搜索工具
 * [kali-anonsurf](https://github.com/Und3rf10w/kali-anonsurf)-Kali Linux匿名工具
+* [duckhunt](https://github.com/pmsosa/duckhunt)-Prevent RubberDucky (or other keystroke injection) attacks
 
 ***
 
