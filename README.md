@@ -101,6 +101,7 @@ May the brute force be with you.
 * [Pompem](https://github.com/rfunix/Pompem)-漏洞搜索工具
 * [kali-anonsurf](https://github.com/Und3rf10w/kali-anonsurf)-Kali Linux匿名工具
 * [duckhunt](https://github.com/pmsosa/duckhunt)-Prevent RubberDucky (or other keystroke injection) attacks
+* [VolatilityBot](https://github.com/mkorman90/VolatilityBot)-An automated memory analyzer for malware samples and memory dumps
 
 ***
 
