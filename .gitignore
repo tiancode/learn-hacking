@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# 编辑器
+*.swp
+*~
+.idea/
+.vscode/
+
+# Jekyll 构建产物（本仓库已不再作为 Jekyll 站点）
+_site/
+.jekyll-cache/
+.sass-cache/
