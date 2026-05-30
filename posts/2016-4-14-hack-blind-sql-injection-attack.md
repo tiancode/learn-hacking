@@ -1,6 +1,6 @@
 # 盲SQL注入攻击
 
-盲SQL注入攻击(blind SQL injection attack)是[SQL注入攻击](http://topspeedsnail.com/hack-sql-injection-attack/)的一种类型，这种攻击方式是问数据库"真假"问题，然后根据数据库的回应判断答案－应用程序输出的错误信息。
+盲SQL注入攻击(blind SQL injection attack)是[SQL注入攻击](2016-4-13-hack-sql-injection-attack.md)的一种类型，这种攻击方式是问数据库"真假"问题，然后根据数据库的回应判断答案－应用程序输出的错误信息。
 
 盲SQL注入和SQL注入的不同是从数据库中获得数据的方式，当数据库不向网页上输出数据时，攻击者通过问数据库一系列的"真假"问题获得敏感数据。
 
@@ -80,4 +80,4 @@ UNION SELECT IF(SUBSTRING(passwd,1,1)='a', BENCHMARK(5000000，ENCODE('MSG', 'by
 
 ![sqlmap](../images/2016/4/Screenshot from 2016-04-14 12-37-19.png)
 
-[黑客常用攻击方式汇总](http://topspeedsnail.com/hacker-attack-method/)
+[黑客常用攻击方式汇总](2016-4-8-hacker-attack-method.md)

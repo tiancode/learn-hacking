@@ -4,7 +4,7 @@
 
 有很多收集邮箱的工具：
 
-* [使用Metasploit收集邮箱信息](http://topspeedsnail.com/metasploit-search-email-collector/)
+* [使用Metasploit收集邮箱信息](2016-5-10-metasploit-search-email-collector.md)
 
 示例文件 email.txt：
 

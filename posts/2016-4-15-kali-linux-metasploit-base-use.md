@@ -72,8 +72,8 @@ msf > hosts -R
 
 其他扫描漏洞的工具：lynix、maltego、wp-scan等等。
 
-* [安装使用lynis扫描Linux的安全漏洞](http://topspeedsnail.com/How-to-use-lynis-on-linux/)
-* [Wordpress：使用WPScan检测易受攻击的插件和主题](http://blog.topspeedsnail.com/archives/2267)
+* [安装使用lynis扫描Linux的安全漏洞](2016-3-22-How-to-use-lynis-on-linux.md)
+* Wordpress：使用WPScan检测易受攻击的插件和主题
 
 ********
 
@@ -128,6 +128,6 @@ msf > exploit
 
 *****
 
-[演示使用Metasploit入侵Windows](http://topspeedsnail.com/kali-linux-n-hack-windows-xp/)
+[演示使用Metasploit入侵Windows](2016-4-15-kali-linux-n-hack-windows-xp.md)
 
-[演示使用Metasploit入侵Android](http://topspeedsnail.com/kali-linux-metasploit-hack-android/)
+[演示使用Metasploit入侵Android](2016-4-18-kali-linux-metasploit-hack-android.md)

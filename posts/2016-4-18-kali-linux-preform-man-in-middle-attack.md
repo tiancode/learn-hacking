@@ -26,7 +26,7 @@
 
 确保Kali Linux打开端口转发，因为Kali Linux要起到中转的作用，开启方法：
 
-* [Linux开启端口转发](http://blog.topspeedsnail.com/archives/4384)
+* Linux开启端口转发
 
 ## 拦截数据包
 
@@ -82,14 +82,14 @@ sslstrip：自行查看man手册
 
 ************
 
-[Kali Linux ettercap的使用](http://topspeedsnail.com/kali-linux-ettercap-arp-spoof-attack/)
+[Kali Linux ettercap的使用](2016-4-18-kali-linux-ettercap-arp-spoof-attack.md)
 
-[更改Kali Linux MAC地址](http://blog.topspeedsnail.com/archives/4387)
+更改Kali Linux MAC地址
 
-[在Wifi网络中嗅探明文密码(HTTP POST请求)](http://topspeedsnail.com/wireshark-hack-http-post-password/)
+[在Wifi网络中嗅探明文密码(HTTP POST请求)](2016-4-18-wireshark-hack-http-post-password.md)
 
-[演示使用Metasploit入侵Android](http://topspeedsnail.com/kali-linux-metasploit-hack-android/)
+[演示使用Metasploit入侵Android](2016-4-18-kali-linux-metasploit-hack-android.md)
 
-[演示使用Metasploit入侵Windows](http://topspeedsnail.com/kali-linux-n-hack-windows-xp/)
+[演示使用Metasploit入侵Windows](2016-4-15-kali-linux-n-hack-windows-xp.md)
 
-[使用Hydra通过ssh破解密码](http://topspeedsnail.com/kydra-crack-ssh-and-avoid-attack/)
+[使用Hydra通过ssh破解密码](2016-4-16-kydra-crack-ssh-and-avoid-attack.md)

@@ -1,6 +1,6 @@
 # Android逆向工具：Androguard（二）
 
-在[Android逆向工具：Androguard（一）](http://topspeedsnail.com/reversing-engineering-android-androguard/)中我们安装了Androguard并且使用基本的命令反编译了apk文件。在这一部分，我将介绍更过Androguard工具：
+在[Android逆向工具：Androguard（一）](2016-4-16-reversing-engineering-android-androguard.md)中我们安装了Androguard并且使用基本的命令反编译了apk文件。在这一部分，我将介绍更过Androguard工具：
 
 * Androaxml
 * Androsim
@@ -47,7 +47,7 @@
 
 ![Androsim](../images/2016/4/Screenshot from 2016-04-17 19-29-33.png)
 
-上面是两个相同的apk文件；你可以和移除广告后的apk做对比：[移除Android应用广告－Android逆向工程](http://topspeedsnail.com/android-reversing-remove-ad/)
+上面是两个相同的apk文件；你可以和移除广告后的apk做对比：[移除Android应用广告－Android逆向工程](2016-4-12-android-reversing-remove-ad.md)
 
 * -c：指定压缩的类型 (BZ2, ZLIB, SNAPPY, LZMA, XZ)
 * -d：显示方法
@@ -104,4 +104,4 @@ GraphML是XML格式，用来显示图例和节点：http://www.openthefile.net/e
 
 *****
 
-[Android逆向工程基本环境设置](http://topspeedsnail.com/android-reversing-env-setup/)
+[Android逆向工程基本环境设置](2016-4-11-android-reversing-env-setup.md)

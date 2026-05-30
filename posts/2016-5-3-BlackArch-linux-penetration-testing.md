@@ -12,7 +12,7 @@ $ curl -O https://mirrors.ustc.edu.cn/blackarch/iso/blackarchlinux-live-2016.04.
 
 ### 制作启动U盘：
 
-* [使用dd命令制作USB启动盘](http://blog.topspeedsnail.com/archives/4042)
+* 使用dd命令制作USB启动盘
 
 ### 从U盘启动，开始安装
 

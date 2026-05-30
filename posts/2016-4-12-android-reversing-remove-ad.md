@@ -2,7 +2,7 @@
 
 我用以前做过的一个小游戏为例，源代码地址：<http://git.oschina.net/androidsourcecode/parity>，如果不想自己编译，其中已有编译好的APK包（Parity-release-signed.apk）。这个游戏内使用了google的插页广告。我的目的是逆向破解这个apk，去掉其中的广告。
 
-[Android逆向工程基本环境设置](http://topspeedsnail.com/android-reversing-env-setup/)
+[Android逆向工程基本环境设置](2016-4-11-android-reversing-env-setup.md)
 
 ********
 
@@ -183,6 +183,6 @@ Caused by: java.io.IOException: error=2, No such file or directory
 
 ****
 
-[学习Android逆向工程](http://topspeedsnail.com/start-learn-android-reversing/)
+[学习Android逆向工程](2016-4-9-start-learn-android-reversing.md)
 
-[Android逆向工具：Androguard（一）](http://topspeedsnail.com/reversing-engineering-android-androguard/)
+[Android逆向工具：Androguard（一）](2016-4-16-reversing-engineering-android-androguard.md)

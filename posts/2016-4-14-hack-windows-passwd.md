@@ -2,7 +2,7 @@
 
 首先制作一个Kali Linux启动U盘：
 
-[使用dd命令制作USB启动盘](http://blog.topspeedsnail.com/archives/4042)
+使用dd命令制作USB启动盘
 
 在要破解密码的电脑上插入U盘，启动Kali Linux，进入Live模式。
 

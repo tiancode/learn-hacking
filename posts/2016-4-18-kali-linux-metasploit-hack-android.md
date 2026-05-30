@@ -72,12 +72,12 @@ msf > use exploit/multi/handler
 怎么防范：
 
 * 不要安装不信任的apk
-* 如果你非要安装未知来源的apk，你可以使用android逆向工程查看apk的代码。[学习Android逆向工程](http://topspeedsnail.com/start-learn-android-reversing/)
+* 如果你非要安装未知来源的apk，你可以使用android逆向工程查看apk的代码。[学习Android逆向工程](2016-4-9-start-learn-android-reversing.md)
 
 ![Kali Linux 黑 Android](../images/2016/4/Screenshot from 2016-04-18 11-27-38.png)
 
 ****
 
-[Metasploit的基本使用](http://topspeedsnail.com/kali-linux-metasploit-base-use/)
+[Metasploit的基本使用](2016-4-15-kali-linux-metasploit-base-use.md)
 
-[演示使用Metasploit入侵Windows](http://topspeedsnail.com/kali-linux-n-hack-windows-xp/)
+[演示使用Metasploit入侵Windows](2016-4-15-kali-linux-n-hack-windows-xp.md)

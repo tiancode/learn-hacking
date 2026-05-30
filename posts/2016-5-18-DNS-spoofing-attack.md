@@ -1,6 +1,6 @@
 # 演示DNS欺骗攻击
 
-DNS欺骗攻击基于[中间人攻击](http://topspeedsnail.com/kali-linux-preform-man-in-middle-attack/)。攻击者更改受害者从DNS服务器查询的域名解析结果，给受害者发送恶意网页或钓鱼网页－浏览器依然显示正常的url。
+DNS欺骗攻击基于[中间人攻击](2016-4-18-kali-linux-preform-man-in-middle-attack.md)。攻击者更改受害者从DNS服务器查询的域名解析结果，给受害者发送恶意网页或钓鱼网页－浏览器依然显示正常的url。
 
 本帖介绍怎么使用Ettercap施行DNS欺骗攻击，实现受害者访问任何网站都转向到攻击者指定的网站。
 

@@ -20,18 +20,18 @@
 
 无线网卡监听模式和混杂模式有什么不同：
 
-* 监听模式允许网卡不用连接wifi就可以抓取特性频道的数据，就是在空气中抓取某个波段的数据。可以用在[破解wifi密码](http://topspeedsnail.com/macbook-crack-wifi-with-wpa-wpa2/)上
+* 监听模式允许网卡不用连接wifi就可以抓取特性频道的数据，就是在空气中抓取某个波段的数据。可以用在[破解wifi密码](2016-4-5-macbook-crack-wifi-with-wpa-wpa2.md)上
 * 混杂模式（连接wifi）就是接收所有经过网卡的数据包，包括不是发给本机的包，即不验证MAC地址
 * 普通模式下网卡只接收发给本机的包
 
 现在的无线路由器都是和主机直接通信，如果你直接使用嗅探工具，只会得到广播信息和自己的连接信息。为了得到网络中所有设备发送的的数据，攻击者必须想办法充当网关的角色，ARP欺骗攻击就干了这样一件事。如果有路由器控制权的话就省事了。
 
-集线器可以直接嗅探，因为所有数据的发送形式是广播。看看这：[集线器、交换机和路由器有什么不同](http://blog.topspeedsnail.com/archives/4391)。
+集线器可以直接嗅探，因为所有数据的发送形式是广播。看看这：集线器、交换机和路由器有什么不同。
 
 ARP欺骗攻击(ARP spoof attack)：
 
-* [使用Kali Linux执行中间人攻击](http://topspeedsnail.com/kali-linux-preform-man-in-middle-attack/)
-* [Kali Linux ettercap的使用](http://topspeedsnail.com/kali-linux-ettercap-arp-spoof-attack/)
+* [使用Kali Linux执行中间人攻击](2016-4-18-kali-linux-preform-man-in-middle-attack.md)
+* [Kali Linux ettercap的使用](2016-4-18-kali-linux-ettercap-arp-spoof-attack.md)
 
 ***
 
@@ -45,7 +45,7 @@ Kali Linux自带了这个工具。
 
 ## ARP欺骗攻击
 
-我选择使用ettercap，如果你不知道怎么使用，看，[Kali Linux ettercap的使用](http://topspeedsnail.com/kali-linux-ettercap-arp-spoof-attack/)。
+我选择使用ettercap，如果你不知道怎么使用，看，[Kali Linux ettercap的使用](2016-4-18-kali-linux-ettercap-arp-spoof-attack.md)。
 
 攻击同一wifi网络中的其他主机：
 

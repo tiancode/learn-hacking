@@ -4,7 +4,7 @@ ettercap是执行ARP欺骗嗅探的工具，通常用它来施行中间人攻击
 
 我还介绍过另一个arp欺骗工具-arpspoof：
 
-* [使用Kali Linux执行中间人攻击](http://topspeedsnail.com/kali-linux-preform-man-in-middle-attack/)
+* [使用Kali Linux执行中间人攻击](2016-4-18-kali-linux-preform-man-in-middle-attack.md)
 
 我使用的是Kali Linux 2.0；在开始使用ettercap之前，先配置一下：
 
@@ -32,7 +32,7 @@ ec_gid = 0                # nobody is the default
 
 如果你没有打开端口转发，打开方法：
 
-* [Linux开启端口转发](http://blog.topspeedsnail.com/archives/4384)
+* Linux开启端口转发
 
 *****
 
@@ -74,7 +74,7 @@ Host->Host list，扫描到的主机列表：
 
 和Wireshark配合使用：
 
-* [在Wifi网络中嗅探明文密码(HTTP POST请求)](http://topspeedsnail.com/wireshark-hack-http-post-password/)
+* [在Wifi网络中嗅探明文密码(HTTP POST请求)](2016-4-18-wireshark-hack-http-post-password.md)
 
 *********
 

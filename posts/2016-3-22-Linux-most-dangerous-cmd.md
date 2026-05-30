@@ -27,7 +27,7 @@ rm常用选项：
 
 ### #2) :(){:|:&};:
 
-上面这个命令就是所谓的fork炸弹。执行上面代码会耗尽系统资源而崩溃。更多关于fork炸弹的信息看这里：[Linux：怎么防止fork炸弹攻击](http://blog.topspeedsnail.com/archives/2757)。
+上面这个命令就是所谓的fork炸弹。执行上面代码会耗尽系统资源而崩溃。更多关于fork炸弹的信息看这里：Linux：怎么防止fork炸弹攻击。
 
 ### #3) cmd > /dev/sda
 

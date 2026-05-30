@@ -4,7 +4,7 @@ arp-scan是一个用来进行系统发现的命令行工具。它可以构建并
 
 > ARP协议被设计成允许被用于任何链路层和网络层协议。然而在实际中它仅用于以太网（包括802.11无线）和IPv4；IPv6使用NDP（邻居发现协议）来代替，这是一种不同的协议。ARP是一个不可路由的协议，因此只能在同一个以太网网络上的系统之间使用。
 
-arp-scan可以显示本地网络中的所有连接的设备，即使这些设备有防火墙。设备可以[屏蔽ping](http://blog.topspeedsnail.com/archives/4613)，但是并不能屏蔽ARP数据包。
+arp-scan可以显示本地网络中的所有连接的设备，即使这些设备有防火墙。设备可以屏蔽ping，但是并不能屏蔽ARP数据包。
 
 Kali Linux默认安装了arp-scan工具，如果你使用Ubuntu，安装命令：
 
@@ -33,7 +33,7 @@ $ sudo apt-get install arp-scan
 
 arp-scan是很简单的工具，但是很强大；
 
-理解arp是[执行arp欺骗攻击](http://topspeedsnail.com/kali-linux-preform-man-in-middle-attack/)的基础。
+理解arp是[执行arp欺骗攻击](2016-4-18-kali-linux-preform-man-in-middle-attack.md)的基础。
 
 arp-scan帮助：
 

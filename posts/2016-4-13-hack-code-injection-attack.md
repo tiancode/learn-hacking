@@ -2,7 +2,7 @@
 
 代码注入攻击(code injection attack)通常是指在应用程序中注入要执行的代码片段。这种类型的攻击利用目标程序没有对不信任的数据进行验证，通常因为缺少对输入输出数据的验证。
 
-代码注入攻击和[命令注入攻击](http://topspeedsnail.com/hack-command-injection-attack/)类似，不同点是，代码注入攻击要实现的功能限制在注入的语言本身。如果攻击者成功注入了PHP代码，那么攻击者只能做PHP可以做的事。命令注入可以利用已有的命令，通常受shell限制。
+代码注入攻击和[命令注入攻击](2016-4-13-hack-command-injection-attack.md)类似，不同点是，代码注入攻击要实现的功能限制在注入的语言本身。如果攻击者成功注入了PHP代码，那么攻击者只能做PHP可以做的事。命令注入可以利用已有的命令，通常受shell限制。
 
 ### 示例1
 
@@ -36,4 +36,4 @@ eval("\$your_var = \$p;");
 /index.php?pi=3.14; system('ls')
 ```
 
-[黑客常用攻击方式汇总](http://topspeedsnail.com/hacker-attack-method/)
+[黑客常用攻击方式汇总](2016-4-8-hacker-attack-method.md)

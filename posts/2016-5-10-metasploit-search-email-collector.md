@@ -2,8 +2,8 @@
 
 关于Metasploit的另两个帖子：
 
-* [演示使用Metasploit入侵Windows](http://topspeedsnail.com/kali-linux-n-hack-windows-xp/)
-* [演示使用Metasploit入侵Android](http://topspeedsnail.com/kali-linux-metasploit-hack-android/)
+* [演示使用Metasploit入侵Windows](2016-4-15-kali-linux-n-hack-windows-xp.md)
+* [演示使用Metasploit入侵Android](2016-4-18-kali-linux-metasploit-hack-android.md)
 
 Metasploit提供了很多辅助的模块，非常实用。今天介绍一个叫search_email_collector的模块，它的功能是查找搜索引擎（google、bing、yahoo），收集和某个域名有关的邮箱地址。
 

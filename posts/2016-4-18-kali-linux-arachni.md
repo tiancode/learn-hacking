@@ -30,6 +30,6 @@ arachni也提供了web接口：https://github.com/Arachni/arachni-ui-web
 
 *****
 
-[Wordpress：使用WPScan检测易受攻击的插件和主题](http://blog.topspeedsnail.com/archives/2267)
+Wordpress：使用WPScan检测易受攻击的插件和主题
 
-[使用WPScan破解wordpress站点密码](http://blog.topspeedsnail.com/archives/4228)
+使用WPScan破解wordpress站点密码

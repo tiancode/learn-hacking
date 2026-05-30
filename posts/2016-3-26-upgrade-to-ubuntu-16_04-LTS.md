@@ -43,7 +43,7 @@ $ sudo update-manager -d
 
 **********
 
-# 升级Ubuntu Server
+## 升级Ubuntu Server
 
 前面我升级的是Ubuntu桌面版，下面我们来升级Ubuntu服务器版。
 

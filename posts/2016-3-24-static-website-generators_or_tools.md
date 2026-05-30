@@ -18,7 +18,7 @@
 
 如果你想搭建自己的静态网站，你可以选用下面列出的11个工具。
 
-# Jekyll
+## Jekyll
 
 [**Jekyll**](http://jekyllrb.com/)做为GitHub Pages的构建工具（Ruby语言），使它成为最流行的静态网站生成工具。Jekyll的流行也因为它非常简单，只需要基础的web开发基础。你可以使用它轻易的把文本转换为自定义的网站/博客。
 
@@ -30,7 +30,7 @@
 >
 > 开始使用Jekyll：<http://jekyllrb.com/docs/quickstart/>
 
-# Octopress
+## Octopress
 
 [**Octopress**](http://octopress.org/)是基于Jekyll的博客生成工具，它简化了Jekyll的操作，可以让你更舒服的创作。Octopress的一大优势是它插件很多，并且兼容Jekyll的官方插件。
 
@@ -40,7 +40,7 @@ Octopress支持内建的社交平台（Twitter, Google+），Disqus评论和Goog
 
 > Octopress的文档：<http://octopress.org/docs/>
 
-# Hexo
+## Hexo
 
 [**Hexo**](https://hexo.io/)是用Node.js编写的博客框架。这个静态网站生成工具非常快，使用它构建一个完整的网站只需要几秒钟。Hexo支持所有的GitHub Markdown特性，并支持大多数Octopress插件。
 
@@ -50,7 +50,7 @@ Octopress支持内建的社交平台（Twitter, Google+），Disqus评论和Goog
 
 > [Hexo的文档]<https://hexo.io/docs/>
 
-# Hugo
+## Hugo
 
 [Hugo]<http://gohugo.io/>是另一个流行的静态网站生成工具，它是使用go语言编写，并且使用Markdown语法。官网对它的描述：
 
@@ -60,7 +60,7 @@ Octopress支持内建的社交平台（Twitter, Google+），Disqus评论和Goog
 
 > 开始使用Hugo：<http://gohugo.io/overview/quickstart/>
 
-# Pelican
+## Pelican
 
 [**Pelican**](http://getpelican.com/)是使用Python编写的静态网站生成工具。它支持用reStructuredText, Markdown, 和AsciiDoc创作网站内容。Pelican支持Jinja模版引擎，结果是，它支持很多自定义主题。
 
@@ -68,7 +68,7 @@ Octopress支持内建的社交平台（Twitter, Google+），Disqus评论和Goog
 
 > 开始使用Pelican：<http://docs.getpelican.com/en/3.6.3/install.html>
 
-# Middleman
+## Middleman
 
 [Middleman](https://middlemanapp.com/) －中间人，又一个使用Ruby编写的静态网站生成工具。它提供怎么使用和自定义的文档，方便你自定义你的网站。
 
@@ -78,7 +78,7 @@ Octopress支持内建的社交平台（Twitter, Google+），Disqus评论和Goog
 
 > 开始使用Middleman：<https://middlemanapp.com/basics/install/>
 
-# Metalsmith
+## Metalsmith
 [Metalsmith](http://www.metalsmith.io/)是简单、高效、pluggable静态网站生成工具，它使用nodejs编写。Metalsmith和其他工具的最大区别是它的所有东西都由插件处理，并且插件可以重用。只要决定网站的功能，然后找到相关插件，组合到一起，ok，ready to go!
 
 Metalsmith也可以生成PDF、电子书、文档等等。
@@ -87,7 +87,7 @@ Metalsmith也可以生成PDF、电子书、文档等等。
 
 > 开始使用Metalsmith：<http://www.metalsmith.io/>
 
-# DocPad
+## DocPad
 
 [DocPad](http://docpad.org/)自带建立好的网站主架，允许你快速的建立功能完整的网站。这个工具支持CoffeeScript、Ruby、PHP、Stylus等等。
 
@@ -97,7 +97,7 @@ Metalsmith也可以生成PDF、电子书、文档等等。
 
 > 开始使用DocPad：<http://docpad.org/docs/install>
 
-# Wintersmith
+## Wintersmith
 
 [Wintersmith](http://wintersmith.io/)是极简的、可扩展的静态网站生成工具，它使用Nodejs编写。它同样支持插件。Wintersmith的项目基于目录结构，可以方便的移植旧站点。
 
@@ -105,7 +105,7 @@ Metalsmith也可以生成PDF、电子书、文档等等。
 
 > 开始使用Wintersmith：<https://github.com/jnordberg/wintersmith#quick-start>
 
-# Cactus
+## Cactus
 
 [Cactus](https://github.com/koenbok/Cactus/)是使用Python和Django模版系统制作的静态网站生成工具。
 
@@ -121,7 +121,7 @@ One more thing!
 
 *******************
 
-# HubPress
+## HubPress
 
 [HubPress](http://hubpress.io/)是开源的web应用，使用它可以允许你创建一个基于GitHub Pages的博客。HubPress的使用非常简单，你只需要fork这个项目到你的github，然后修改配置文件就可以了。
 

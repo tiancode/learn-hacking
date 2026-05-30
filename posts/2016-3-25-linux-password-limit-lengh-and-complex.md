@@ -6,13 +6,13 @@ Linux的用户密码是一大安全因素。如果你使用弱密码，极有可
 
 做为系统管理员，你应使用复杂的强密码。
 
-[使用Hydra通过ssh破解密码](http://topspeedsnail.com/kydra-crack-ssh-and-avoid-attack/)
+[使用Hydra通过ssh破解密码](2016-4-16-kydra-crack-ssh-and-avoid-attack.md)
 
-# 设置密码长度
+## 设置密码长度
 
 默认安装下，所有基于Linux操作系统，要求用户密码至少使用6个字符。我建议密码至少不少于8位。一个强密码还需要混合大小写字母、数字和特殊字符。
 
-## 基于Debian的系统（Debian Ubuntu Linux Mint）
+### 基于Debian的系统（Debian Ubuntu Linux Mint）
 
 基于Debian的系统一般把密码验证相关的配置文件放在/etc/pam.d/。
 
@@ -44,9 +44,9 @@ password        [success=1 default=ignore]      pam_unix.so obscure sha512 minle
 
 如果提供的密码不足8位，密码将设置失败。提示信息：_You must choose a longer password_（你可以试试自定义提示信息）。
 
-## 基于RHEL的系统（RHEL CentOS Scientific）
+### 基于RHEL的系统（RHEL CentOS Scientific）
 
-### RHEL7,CentOS7,Scientific7
+#### RHEL7,CentOS7,Scientific7
 
 执行如下命令设置密码长度，我设置8位：
 
@@ -66,7 +66,7 @@ password        [success=1 default=ignore]      pam_unix.so obscure sha512 minle
 minlen = 8
 ```
 
-### RHEL6,CentOS6,Scientific6
+#### RHEL6,CentOS6,Scientific6
 
 编辑 **/etc/pam.d/system-auth** 文件：
 
@@ -80,11 +80,11 @@ minlen = 8
 password requisite pam_cracklib.so try_first_pass retry=3 type= minlen=8
 ```
 
-# 设置密码复杂度
+## 设置密码复杂度
 
 强制用户密码使用更多的字符集－大写字母、小写字母、数字和特殊字符。
 
-## 基于Debian的系统（Debian Ubuntu Linux Mint）
+### 基于Debian的系统（Debian Ubuntu Linux Mint）
 
 首先安装密码复杂度检查工具库 **libpam-pwquality**：
 
@@ -144,9 +144,9 @@ password        requisite                       pam_pwquality.so retry=3 minclas
 password        requisite                       pam_pwquality.so retry=3 dcredit=-1 ucredit=-1 lcredit=-1 ocredit=-1
 ```
 
-## 基于RHEL的系统（RHEL CentOS Scientific）
+### 基于RHEL的系统（RHEL CentOS Scientific）
 
-### RHEL7,CentOS7,Scientific7
+#### RHEL7,CentOS7,Scientific7
 
 设置密码中至少包含一个小写字符，执行命令：
 
@@ -196,7 +196,7 @@ password        requisite                       pam_pwquality.so retry=3 dcredit
 # grep "^ocredit" /etc/security/pwquality.conf
 ```
 
-### RHEL6,CentOS6,Scientific6
+#### RHEL6,CentOS6,Scientific6
 
 编辑 **/etc/pam.d/system-auth** 文件：
 
@@ -212,7 +212,7 @@ password requisite pam_cracklib.so try_first_pass retry=3 type= minlen=8 dcredit
 
 上面配置了密码至少8个字符长，并且分别包含大小写字母、数字和特殊字符。
 
-# 设置密码过期时间
+## 设置密码过期时间
 
 我们设置如下策略：
 
@@ -220,7 +220,7 @@ password requisite pam_cracklib.so try_first_pass retry=3 type= minlen=8 dcredit
 * 更改密码最少天数间隔，为了不让用户频繁更改密码
 * 在密码过期前多少天提醒用户
 
-## 基于Debian的系统（Debian Ubuntu Linux Mint）
+### 基于Debian的系统（Debian Ubuntu Linux Mint）
 
 编辑文件 **login.defs**：
 
@@ -262,15 +262,15 @@ $ sudo chage -E 24/09/2016 -m 0 -M 90 -I 10 -W 7 bibi
 
 用户在密码过期10天后锁定。
 
-## 基于RHEL的系统（RHEL CentOS Scientific）
+### 基于RHEL的系统（RHEL CentOS Scientific）
 
 和Debian系统一样。
 
-# 防止用户再次使用以前使用过的密码
+## 防止用户再次使用以前使用过的密码
 
 一般来说，不建议用户再次使用同一个密码。
 
-## 基于Debian的系统（Debian Ubuntu Linux Mint）
+### 基于Debian的系统（Debian Ubuntu Linux Mint）
 
 编辑 **/etc/pam.d/common-password**：
 
@@ -286,7 +286,7 @@ password        [success=1 default=ignore]      pam_unix.so obscure use_authtok 
 
 上面设置了不允许再次使用最近的10个密码。
 
-## 基于RHEL的系统（RHEL CentOS Scientific）
+### 基于RHEL的系统（RHEL CentOS Scientific）
 
 编辑 **/etc/pam.d/system-auth**：
 

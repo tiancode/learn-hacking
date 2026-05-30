@@ -100,5 +100,5 @@ forward-socks5   /               127.0.0.1:9050 .
 
 ****
 
-* [Kali Linux编译Lantern](http://blog.topspeedsnail.com/archives/4236)
-* [kali linux: 安装Tor浏览器](http://blog.topspeedsnail.com/archives/4577)
+* Kali Linux编译Lantern
+* kali linux: 安装Tor浏览器

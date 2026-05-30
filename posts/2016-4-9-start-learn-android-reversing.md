@@ -1,11 +1,11 @@
 # 学习Android逆向工程
 
-[Android逆向工程基本环境设置](http://topspeedsnail.com/android-reversing-env-setup/)
+[Android逆向工程基本环境设置](2016-4-11-android-reversing-env-setup.md)
 
-[移除Android应用广告－Android逆向工程](http://topspeedsnail.com/android-reversing-remove-ad/)
+[移除Android应用广告－Android逆向工程](2016-4-12-android-reversing-remove-ad.md)
 
-[Android逆向工具：Androguard（一）](http://topspeedsnail.com/reversing-engineering-android-androguard/)
+[Android逆向工具：Androguard（一）](2016-4-16-reversing-engineering-android-androguard.md)
 
-[Android逆向工具：Androguard（二）](http://topspeedsnail.com/reversing-engineering-android-androguard2/)
+[Android逆向工具：Androguard（二）](2016-4-17-reversing-engineering-android-androguard2.md)
 
-[Android逆向工具(三)](http://topspeedsnail.com/reversing-engineering-android-other/)
+[Android逆向工具(三)](2016-4-17-reversing-engineering-android-other.md)

@@ -1,6 +1,6 @@
 # 清除Linux的最近登录日志和Bash历史
 
-前文介绍了怎么[使用tor实现匿名扫描/SSH登录](http://topspeedsnail.com/use-tor-hide-your-ass/)。本文介绍怎么清除Linux的最近登录日志和Bash历史。
+前文介绍了怎么[使用tor实现匿名扫描/SSH登录](2016-5-2-use-tor-hide-your-ass.md)。本文介绍怎么清除Linux的最近登录日志和Bash历史。
 
 ### 清除登录日志
 

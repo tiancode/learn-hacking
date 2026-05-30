@@ -1,13 +1,13 @@
 # 使用Hydra通过ssh破解密码
 
-Hydra是非常高效的网络登录破解工具，它可以对多种服务程序执行[暴力破解](http://topspeedsnail.com/hack-brute-force/)（SSH、VNC等等）。
+Hydra是非常高效的网络登录破解工具，它可以对多种服务程序执行[暴力破解](2016-4-14-hack-brute-force.md)（SSH、VNC等等）。
 
 防止这种攻击其实很容易，方法很多。以SSH为例：
 
-* [Ubuntu：使用Port Knocking隐藏SSH端口](http://blog.topspeedsnail.com/archives/3936)
-* [在Ubuntu中用Fail2Ban保护SSH](http://blog.topspeedsnail.com/archives/262)
-* [CentOS 7安装使用Fail2Ban保护SSH](http://blog.topspeedsnail.com/archives/3119)
-* [Debian使用Fail2Ban和Tinyhoneypot增加网络安全](http://blog.topspeedsnail.com/archives/3667)
+* Ubuntu：使用Port Knocking隐藏SSH端口
+* 在Ubuntu中用Fail2Ban保护SSH
+* CentOS 7安装使用Fail2Ban保护SSH
+* Debian使用Fail2Ban和Tinyhoneypot增加网络安全
 
 *****
 

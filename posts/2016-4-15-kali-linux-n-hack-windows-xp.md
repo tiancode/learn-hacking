@@ -105,6 +105,6 @@ OK，入侵成功。
 
 ****
 
-[Metasploit的基本使用](http://topspeedsnail.com/kali-linux-metasploit-base-use/)
+[Metasploit的基本使用](2016-4-15-kali-linux-metasploit-base-use.md)
 
-[演示使用Metasploit入侵Android](http://topspeedsnail.com/kali-linux-metasploit-hack-android/)
+[演示使用Metasploit入侵Android](2016-4-18-kali-linux-metasploit-hack-android.md)

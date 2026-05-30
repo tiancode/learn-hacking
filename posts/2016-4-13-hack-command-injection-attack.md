@@ -53,9 +53,9 @@ drwx------+ 14 tian  staff   476B Mar 23 16:07 ..
 ＃ ./a.out "show.txt; cat /etc/shadow"
 ```
 
-[Linux上最危险的8个命令](http://topspeedsnail.com/Linux-most-dangerous-cmd/)
+[Linux上最危险的8个命令](2016-3-22-Linux-most-dangerous-cmd.md)
 
-获得/etc/shadow可以破解密码：[Kali Linux：使用John the Ripper破解密码](http://topspeedsnail.com/John-the-Ripper-learn/)
+获得/etc/shadow可以破解密码：[Kali Linux：使用John the Ripper破解密码](2016-4-4-John-the-Ripper-learn.md)
 
 命令注入攻击利用了程序对用户输入的信息没有做足够的检验。
 
@@ -90,4 +90,4 @@ http://something/delete.php?filename=some.png;ls
 
 会执行ls命令。
 
-[黑客常用攻击方式汇总](http://topspeedsnail.com/hacker-attack-method/)
+[黑客常用攻击方式汇总](2016-4-8-hacker-attack-method.md)

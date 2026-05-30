@@ -1,6 +1,6 @@
 # 使用sqlmap执行SQL注入攻击
 
-如果你不知道SQL注入攻击的原理是什么，看：[SQL注入攻击](http://topspeedsnail.com/hack-sql-injection-attack/)
+如果你不知道SQL注入攻击的原理是什么，看：[SQL注入攻击](2016-4-13-hack-sql-injection-attack.md)
 
 sqlmap是开源的SQL注入自动攻击工具，它可以自动的探测SQL注入点并且进一步控制网站的数据库。
 
