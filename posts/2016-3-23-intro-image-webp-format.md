@@ -23,7 +23,7 @@ WebP图像格式的特点总结如下：
 
 ![jpeg pic](../images/2016/3/8fffa491jw1f2rdfughnkj21000qoth9.jpg)
 
-使用转换工具转换，这里有几个工具：转换WebP工具。
+可以使用转换工具进行转换，例如 Google 官方的 cwebp 命令行工具。
 
 转换完成的webp图像，大小965k。
 
