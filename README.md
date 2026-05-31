@@ -6,7 +6,7 @@
 May the brute force be with you.
 ```
 
-共收录 82 篇笔记。所有文章位于 [`posts/`](posts) 目录。
+共收录 83 篇笔记。所有文章位于 [`posts/`](posts) 目录。
 
 ## 目录
 
@@ -119,6 +119,7 @@ May the brute force be with you.
 ## AI 与安全
 
 * [AI Agent 逆向工程：在安全领域的发展](posts/2026-5-31-ai-agent-reverse-engineering-security.md)
+* [我被 AI 吓尿了](posts/2026-5-31-scared-by-ai-in-security.md)
 
 ## 系统与环境搭建
 
