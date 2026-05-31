@@ -21,7 +21,7 @@
 安装tor：
 
 ```shell
-# apt-get install tor proxychains
+# apt install tor proxychains
 ```
 
 使用代理连接tor网络，下面以lantern为例：
@@ -69,7 +69,7 @@ theharvester是从各种搜索引擎收集信息的工具。
 有些应用并不使用代理发送DNS请求，为了防止DNS泄露，使用Privoxy。
 
 ```shell
-# apt-get install privoxy
+# apt install privoxy
 ```
 
 配置

@@ -5,7 +5,7 @@ arachni是web应用漏洞扫描工具。
 如果系统中没有安装arachni；安装arachni：
 
 ```shell
-# apt-get install arachni
+# apt install arachni
 ```
 
 ```shell

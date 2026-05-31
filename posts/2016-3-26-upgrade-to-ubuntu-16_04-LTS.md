@@ -1,12 +1,14 @@
 # Ubuntu 14.04升级到Ubuntu 16.04
 
+> ⚠️ 本文写于 2016 年，其中涉及的软件版本、下载地址或操作步骤可能已过时，请结合官方最新文档参考。
+
 下面记录了从Ubuntu 14.04/15.10升级到Ubuntu 16.04的步骤。
 
 在升级系统之前，我们先更新一下系统。打开终端执行如下命令：
 
 ```shell
-$ sudo apt-get update 
-$ sudo apt-get dist-upgrade
+$ sudo apt update 
+$ sudo apt dist-upgrade
 ```
 
 上面命令会下载安装最新的内核和软件包。
@@ -52,7 +54,7 @@ $ sudo update-manager -d
 如果你的系统中没有安装update-manager-core软件包，安装它：
 
 ```shell
-$ sudo apt-get install update-manager-core
+$ sudo apt install update-manager-core
 ```
 
 编辑文件_/etc/update-manager/release-upgrades_：
@@ -73,7 +75,7 @@ $ sudo vim /etc/update-manager/release-upgrades
 在升级系统之前，我们先更新一下系统。打开终端执行如下命令：
 
 ```shell
-$ sudo apt-get update && sudo apt-get dist-upgrade
+$ sudo apt update && sudo apt dist-upgrade
 ```
 
 重启系统：
@@ -87,7 +89,7 @@ $ sudo reboot
 安装screen：
 
 ```shell
-$ sudo apt-get install screen
+$ sudo apt install screen
 ```
 
 启动screen：

@@ -39,7 +39,7 @@ sudo命令提供了临时使用root权限的机制，使普通用户可以执行
 执行root任务：
 
 ```shell
-$ sudo apt-get update
+$ sudo apt update
 ```
 
 *****

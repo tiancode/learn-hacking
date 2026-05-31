@@ -1,5 +1,7 @@
 # 在Ubuntu上安装Android Studio
 
+> ⚠️ 本文写于 2016 年，其中涉及的软件版本、下载地址或操作步骤可能已过时，请结合官方最新文档参考。
+
 什么是Android Studio？
 
 **Android Studio** 是google官方的集成开发环境（IDE），它是用来开发Android应用程序的，基于 [IntelliJ IDEA](https://www.jetbrains.com/idea/)
@@ -17,19 +19,19 @@ $ sudo add-apt-repository ppa:webupd8team/java
 ```
 
 ```shell
-$ sudo apt-get update
+$ sudo apt update
 ```
 
 安装JDK 7：
 
 ```shell
-$ sudo apt-get install oracle-java7-installer
+$ sudo apt install oracle-java7-installer
 ```
 
 如果你要使用JDK 8，执行：
 
 ```shell
-sudo apt-get install oracle-java8-installer
+sudo apt install oracle-java8-installer
 ```
 
 安装过程中需要接受协议，选择OK：
@@ -63,13 +65,13 @@ $ sudo add-apt-repository ppa:paolorotolo/android-studio
 ```
 
 ```shell
-$ sudo apt-get update
+$ sudo apt update
 ```
 
 安装Android Studio：
 
 ```shell
-$ sudo apt-get install android-studio
+$ sudo apt install android-studio
 ```
 
 安装完成之后，从菜单启动Android Studio（如果菜单没有，可以重启试试）。在第一次启动时，Android Studio会启动一个设置向导，引导你完成adnroid sdk、android模拟器和其他组件的下载和安装。

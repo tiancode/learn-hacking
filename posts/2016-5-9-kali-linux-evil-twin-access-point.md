@@ -11,7 +11,7 @@
 这是一个dhcp服务程序，为连接到wifi的用户分配ip。
 
 ```shell
-# apt-get install isc-dhcp-server
+# apt install isc-dhcp-server
 ```
 
 ### 配置Apache2

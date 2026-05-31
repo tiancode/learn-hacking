@@ -89,7 +89,7 @@ password requisite pam_cracklib.so try_first_pass retry=3 type= minlen=8
 首先安装密码复杂度检查工具库 **libpam-pwquality**：
 
 ```shell
-$ sudo apt-get install libpam-pwquality
+$ sudo apt install libpam-pwquality
 ```
 
 编辑 **/etc/pam.d/common-password** 文件：

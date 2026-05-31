@@ -7,7 +7,7 @@ LaTeX编辑器有很多，你可以自由选择。你也可以使用在线编辑
 我使用的是Ubuntu系统。安装texlive，执行：
 
 ```shell
-$ sudo apt-get install texlive
+$ sudo apt install texlive
 ```
 
 然后就可以用命令行工具pdflatex编译**.tex**文件，tex文件可以用任意文本编辑器创建，我使用vim。
@@ -51,7 +51,7 @@ $ pdflatex hello.tex
 安装texlive的完全体：
 
 ```shell
-$ sudo apt-get install texlive-full
+$ sudo apt install texlive-full
 ```
 
 需要2G多硬盘空间。

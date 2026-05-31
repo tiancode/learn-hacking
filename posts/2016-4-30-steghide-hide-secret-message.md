@@ -9,7 +9,7 @@ Steghide可以把信息隐藏在AU, BMP, JPEG 或 WAV格式的文件中。
 ## 安装Steghide
 
 ```shell
-# apt-get install steghide
+# apt install steghide
 ```
 
 ## 以一个文本文件为例

@@ -1,5 +1,7 @@
 # CentOS 7：使用HAProxy实现Nginx负载均衡
 
+> ⚠️ 本文写于 2016 年，其中涉及的软件版本、下载地址或操作步骤可能已过时，请结合官方最新文档参考。
+
 HAProxy是一款功能强大、灵活好用的反向代理的开源软件，它提供了负载均衡、服务器代理的功能。HAProxy是Willy Tarreau使用C语言编写的，它支持SSL、压缩、keep-alive、自定义日志格式和header重写。
 
 HAProxy是轻量级的负载均衡和代理服务软件，占用系统资源较少。很多大型的网站都在使用它，例如Github、StackOverflow。

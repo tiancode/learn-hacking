@@ -1,5 +1,7 @@
 # Kali Linux安装Flash插件
 
+> ⚠️ 本文写于 2016 年，其中涉及的软件版本、下载地址或操作步骤可能已过时，请结合官方最新文档参考。
+
 Kali Linux并没有自带Adobe Flash播放器插件；
 
 在Kali Linux上有两种方法安装Flash；第一种方法比较简单，但是有时不能安装成功；
@@ -9,7 +11,7 @@ Kali Linux并没有自带Adobe Flash播放器插件；
 使用默认仓库安装：
 
 ```shell
-# apt-get install flashplugin-nonfree
+# apt install flashplugin-nonfree
 ```
 
 ```shell

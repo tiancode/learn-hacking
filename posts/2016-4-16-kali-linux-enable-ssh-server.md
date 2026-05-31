@@ -5,7 +5,7 @@ Kali Linux默认并没有安装SSH服务，为了实现远程登录Kali Linux，
 ### 安装 OpenSSH Server
 
 ```shell
-# apt-get install openssh-server
+# apt install openssh-server
 ```
 
 ### 配置SSH服务开机启动

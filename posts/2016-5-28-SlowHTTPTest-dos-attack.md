@@ -9,7 +9,7 @@ Slowhttptest的源码托管在Github：<https://github.com/shekyan/slowhttptest>
 ## 在Kali Linux上安装SlowHTTPTest
 
 ```shell
-# apt-get install slowhttptest 
+# apt install slowhttptest 
 ```
 
 如果你使用其他linux发行版，可以从源码编译安装：

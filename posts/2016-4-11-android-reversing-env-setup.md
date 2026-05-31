@@ -7,7 +7,7 @@
 Kail Linux已经默认安装了Java jdk，dex2jar,dexdump,aapt等工具。
 
 ```shell
-# apt-get install openjdk-8-jdk
+# apt install openjdk-8-jdk
 ```
 
 ### 安装android SDK

@@ -1,5 +1,7 @@
 # Ubuntu 16.04安装配置Nginx使用Let's Encrypt
 
+> ⚠️ 本文写于 2016 年，其中涉及的软件版本、下载地址或操作步骤可能已过时，请结合官方最新文档参考。
+
 Let's Encrypt是新的认证授权（CA）方式，使用它可以获得免费的TLS/SSL证书－使用HTTPS加密web server。Let's Encrypt依然在测试阶段，目前，它只支持在Apache web服务器上实现自动安装。但是，Let's Encrypt允许我们非常容易的获得一个免费的SSL证书，之后我们可以在web服务器上手动配置安装。
 
 ### 本文涉及：
@@ -26,8 +28,8 @@ letsencrypt托管在github，使用git clone下载。
 如果没有安装git，安装它：
 
 ```shell
-$ sudo apt-get update
-$ sudo apt-get install git
+$ sudo apt update
+$ sudo apt install git
 ```
 
 我把Let’s Encrypt clone到/opt目录：
@@ -41,7 +43,7 @@ $ sudo git clone https://github.com/letsencrypt/letsencrypt /opt/letsencrypt
 如果你没有安装Nginx，安装它：
 
 ```shell
-$ sudo apt-get install nginx
+$ sudo apt install nginx
 ```
 
 配置Nginx：

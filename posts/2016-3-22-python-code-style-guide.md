@@ -27,7 +27,7 @@ pip uninstall pep8
 如果使用的是Ubuntu，还可以使用从apt仓库中安装：
 
 ```shell
-$ sudo apt-get install pep8
+$ sudo apt install pep8
 ```
 
 ###使用示例

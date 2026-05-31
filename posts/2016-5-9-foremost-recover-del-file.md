@@ -46,7 +46,7 @@ all    Run  all  pre-defined  extraction  methods. [Default if no -t is
 Kali Linux默认安装了foremost；如果你使用的是Ubuntu，可以执行如下命令安装：
 
 ```shell
-# apt-get install foremost
+# apt install foremost
 ```
 
 ### 使用foremost恢复文件

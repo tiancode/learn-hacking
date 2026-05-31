@@ -20,7 +20,7 @@ LaTeX默认提供了很多命令，但是有时并不能满足需要，这时就
 如果你使用的是Linux，那么大多数包已经默认安装了。可以执行如下命令安装可用的所有LaTeX包（Ubuntu）：
 
 ```shell
-$ sudo apt-get install texlive-full
+$ sudo apt install texlive-full
 ```
 
 如果你使用的是MiKTeX（Windows），它会下载你引入的包。

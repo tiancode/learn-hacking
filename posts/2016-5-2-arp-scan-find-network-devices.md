@@ -9,7 +9,7 @@ arp-scan可以显示本地网络中的所有连接的设备，即使这些设备
 Kali Linux默认安装了arp-scan工具，如果你使用Ubuntu，安装命令：
 
 ```shell
-$ sudo apt-get install arp-scan
+$ sudo apt install arp-scan
 ```
 
 使用：

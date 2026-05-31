@@ -26,7 +26,7 @@
 用处: 为连接假wifi的用户分配IP。
 
 ```shell
-# apt-get install isc-dhcp-server
+# apt install isc-dhcp-server
 ```
 
 配置DHCP：
