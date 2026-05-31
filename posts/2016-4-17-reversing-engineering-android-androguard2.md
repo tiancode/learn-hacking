@@ -1,6 +1,6 @@
 # Android逆向工具：Androguard（二）
 
-在[Android逆向工具：Androguard（一）](2016-4-16-reversing-engineering-android-androguard.md)中我们安装了Androguard并且使用基本的命令反编译了apk文件。在这一部分，我将介绍更过Androguard工具：
+在[Android逆向工具：Androguard（一）](2016-4-16-reversing-engineering-android-androguard.md)中我们安装了Androguard并且使用基本的命令反编译了apk文件。在这一部分，我将介绍更多Androguard工具：
 
 * Androaxml
 * Androsim

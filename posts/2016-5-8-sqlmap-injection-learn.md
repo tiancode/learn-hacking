@@ -55,7 +55,7 @@ http://www.test.com/index.php?id=1'
 获得某个数据库中的表：
 
 ```shell
-# sqlmap -u sqlmap -u http://www.test.com/index.php?id=1 --dbs -D some_db --tables
+# sqlmap -u http://www.test.com/index.php?id=1 --dbs -D some_db --tables
 ```
 
 获得表的字段：

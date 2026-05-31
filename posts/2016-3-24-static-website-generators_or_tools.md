@@ -48,11 +48,11 @@ Octopress支持内建的社交平台（Twitter, Google+），Disqus评论和Goog
 
 ![Hexo](../images/2016/3/Screen Shot 2016-03-24 at 17.17.21.png)
 
-> [Hexo的文档]<https://hexo.io/docs/>
+> [Hexo的文档](https://hexo.io/docs/)
 
 ## Hugo
 
-[Hugo]<http://gohugo.io/>是另一个流行的静态网站生成工具，它是使用go语言编写，并且使用Markdown语法。官网对它的描述：
+[Hugo](http://gohugo.io/)是另一个流行的静态网站生成工具，它是使用go语言编写，并且使用Markdown语法。官网对它的描述：
 
 > This application does not depend on administrative privileges, databases, interpreters, or external libraries, and still works like a charm. Websites or blogs built with Hugo can be hosted on any web host including GitHub Pages, S3, and Dropbox.
 

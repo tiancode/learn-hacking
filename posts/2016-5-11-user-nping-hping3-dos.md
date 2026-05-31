@@ -20,7 +20,7 @@ DDoS攻击是常见的攻击方式，每小时大约发生28次。<http://www.di
 * -w：TCP window大小
 * -p：目标端口，你可以指定任意端口
 * --flood：尽可能快的发送数据包
-* --rand-source：使用随机的IP地址，目标机器看到一堆ip，不能定位你的实际IP；也可以使用-a或–spoof隐藏主机名
+* --rand-source：使用随机的IP地址，目标机器看到一堆ip，不能定位你的实际IP；也可以使用-a或--spoof隐藏主机名
 
 简单的SYN洪水攻击：
 

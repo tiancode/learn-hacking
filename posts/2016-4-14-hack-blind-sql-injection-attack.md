@@ -66,7 +66,7 @@ BENCHMARK(5000000，ENCODE('MSG', 'by 5 sec'))
 UNION SELECT IF(SUBSTRING(passwd,1,1)='a', BENCHMARK(5000000，ENCODE('MSG', 'by 5 sec')), null) FROM users WHERE id=1;
 ```
 
-如果数据库响应时间变长，也许id==1的的用户密码第一个字符为'a':
+如果数据库响应时间变长，也许id==1的用户密码第一个字符为'a':
 
 使用这种方法依次探测其余的密码字符。
 

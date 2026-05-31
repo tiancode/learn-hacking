@@ -25,7 +25,7 @@ hydra：
 
 ### 字典
 
-这种攻击需要字典文件，一个好的字典至关重要。我以Kali Linux自带的rockyou字典为例，位于/user/share/wordlists/rockyou.txt.gz。
+这种攻击需要字典文件，一个好的字典至关重要。我以Kali Linux自带的rockyou字典为例，位于/usr/share/wordlists/rockyou.txt.gz。
 
 使用前先解压：
 
@@ -38,7 +38,7 @@ hydra：
 扫描SSH服务(22端口)，确定可以施行破解的主机。
 
 ```shell
-＃ nmap -p 22 -open -sV one_IP_or_range_or_subnet > MyTarget
+# nmap -p 22 --open -sV one_IP_or_range_or_subnet > MyTarget
 ```
 
 ### 使用hydra暴力破解

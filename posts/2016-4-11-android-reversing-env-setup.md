@@ -4,7 +4,7 @@
 
 ### 安装JDK
 
-Kail Linux已经默认安装了Java jdk，dex2jar,dexdump,aapt等工具。
+Kali Linux已经默认安装了Java jdk，dex2jar,dexdump,aapt等工具。
 
 ```shell
 # apt install openjdk-8-jdk

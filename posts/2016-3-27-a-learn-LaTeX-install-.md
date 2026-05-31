@@ -64,7 +64,7 @@ $ sudo apt install texlive-full
 
 \begin{document}
 \begin{CJK*}{UTF8}{gbsn}
-    你好 死戒！   
+    你好 世界！   
 \end{CJK*}
 \end{document}
 ```

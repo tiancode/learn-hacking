@@ -27,7 +27,7 @@ nmap－Network Mapper，是著名的网络扫描和嗅探工具包。他同样�
 ## 扫描web服务器的网站目录
 
 ```shell
-# nmap –script http-enum.nse blog.topspeedsnail.com
+# nmap --script http-enum.nse blog.topspeedsnail.com
 ```
 
 ![kail linux nmap](../images/2016/4/Screenshot from 2016-04-05 22-41-03.png)
@@ -37,5 +37,5 @@ nmap－Network Mapper，是著名的网络扫描和嗅探工具包。他同样�
 ## 扫描主机SSL Heartbleed 漏洞（2012）
 
 ```shell
-# nmap -d –script ssl-heartbleed –script-args vulns.showall -sV 192.168.0.106
+# nmap -d --script ssl-heartbleed --script-args vulns.showall -sV 192.168.0.106
 ```

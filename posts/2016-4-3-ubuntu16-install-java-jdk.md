@@ -83,11 +83,11 @@ $ sudo vim /etc/profile
 ```
 
 ```
-＃ 如果使用oracle java
-export JAVA_HOME="/usr/lib/jvm/java-8-oracle/jre/bin"
+# 如果使用oracle java
+export JAVA_HOME="/usr/lib/jvm/java-8-oracle"
 
 # 如果使用openjdk
-export JAVA_HOME="/usr/lib/jvm/java-8-openjdk-amd64/jre/bin"
+export JAVA_HOME="/usr/lib/jvm/java-8-openjdk-amd64"
 ```
 
 OK，在Ubuntu 16.04上安装java完成。

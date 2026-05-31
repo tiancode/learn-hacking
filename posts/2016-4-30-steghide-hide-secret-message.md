@@ -37,5 +37,5 @@ Steghide可以把信息隐藏在AU, BMP, JPEG 或 WAV格式的文件中。
 获得隐藏文件：
 
 ```shell
-# steghide extract –sf normal_pic.jpg
+# steghide extract --sf normal_pic.jpg
 ```

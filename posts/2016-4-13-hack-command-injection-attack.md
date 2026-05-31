@@ -49,8 +49,8 @@ drwx------+ 14 tian  staff   476B Mar 23 16:07 ..
 如果上面命令使用root运行，那么攻击者也就非常容易的获得了root权限：
 
 ```shell
-＃ ./a.out "show.txt; rm -rf /" 
-＃ ./a.out "show.txt; cat /etc/shadow"
+# ./a.out "show.txt; rm -rf /" 
+# ./a.out "show.txt; cat /etc/shadow"
 ```
 
 [Linux上最危险的8个命令](2016-3-22-Linux-most-dangerous-cmd.md)

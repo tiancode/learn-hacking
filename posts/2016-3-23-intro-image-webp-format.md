@@ -39,7 +39,7 @@ WebP图像格式的特点总结如下：
 
 ```html
 <picture>
-    source srcset="example.webp 1x" type="image/webp">
+    <source srcset="example.webp 1x" type="image/webp">
     <img src="example.jpg">
 </picture>
 ```
