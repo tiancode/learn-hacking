@@ -6,7 +6,7 @@
 May the brute force be with you.
 ```
 
-共收录 81 篇笔记。所有文章位于 [`posts/`](posts) 目录。
+共收录 82 篇笔记。所有文章位于 [`posts/`](posts) 目录。
 
 ## 目录
 
@@ -21,6 +21,7 @@ May the brute force be with you.
 - [社会工程学与免杀](#社会工程学与免杀)
 - [Android 逆向工程](#android-逆向工程)
 - [安全基础](#安全基础)
+- [AI 与安全](#ai-与安全)
 - [系统与环境搭建](#系统与环境搭建)
 - [LaTeX 教程](#latex-教程)
 - [其它](#其它)
@@ -114,6 +115,10 @@ May the brute force be with you.
 
 * [黑客常用攻击方式汇总](posts/2016-4-8-hacker-attack-method.md)
 * [安装BlackArch Linux](posts/2016-5-3-BlackArch-linux-penetration-testing.md)
+
+## AI 与安全
+
+* [AI Agent 逆向工程：在安全领域的发展](posts/2026-5-31-ai-agent-reverse-engineering-security.md)
 
 ## 系统与环境搭建
 
